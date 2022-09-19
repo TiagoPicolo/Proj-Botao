@@ -11,7 +11,7 @@
 }
 
 .Botao_Parte_02 {
-    position: fixed;
+    position: relative;
     width: 50px;
     height: 50px;
     margin-left: 6px;
