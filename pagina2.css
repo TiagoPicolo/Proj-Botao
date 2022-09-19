@@ -1,0 +1,49 @@
+.Botao_Parte_01{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: rgb(243, 2, 2);
+    border: 1px black solid;
+}
+.Botao_Parte_01{
+    left: 1%;
+}
+
+.Botao_Parte_02 {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: red;
+    border: 1px black solid;
+}
+.Botao_Parte_02{
+    left: 9px;
+    top: 6px;
+}
+
+.Botao_Parte_01:hover , .Botao_Parte_02:hover{
+    background-color:rgb(201, 11, 11) ;
+}
+
+.bob{
+    position: absolute;
+    left:40%;
+    top:300px;
+    
+}
+
+.frase{
+    font-size: 25px;
+    position: absolute;
+    left:1%;
+    top:8%;
+}
+
+.troll{
+    position: absolute;
+    left: 47%;
+    top: 20%;
+}
+

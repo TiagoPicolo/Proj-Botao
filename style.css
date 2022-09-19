@@ -1,0 +1,37 @@
+.Botao_Parte_01{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: rgb(243, 2, 2);
+    border: 1px black solid;
+}
+.Botao_Parte_01{
+    left: 50%;
+    top:45%
+}
+
+.Botao_Parte_02 {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: red;
+    border: 1px black solid;
+   
+}
+.Botao_Parte_02{
+    left: 23px;
+    top: 25px;
+}
+
+.Botao_Parte_01:hover , .Botao_Parte_02:hover{
+    background-color:rgb(201, 11, 11) ;
+}
+
+.frase{
+    position: absolute;
+    left:45%;
+    top:30%;
+}
+
