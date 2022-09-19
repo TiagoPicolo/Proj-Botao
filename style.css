@@ -3,7 +3,7 @@
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background-color: rgb(243, 2, 2);
+    background-color: rgb(85, 55, 197);
     border: 1px black solid;
 }
 .Botao_Parte_01{
@@ -16,7 +16,7 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background-color: red;
+    background-color:purple;
     border: 1px black solid;
    
 }
@@ -26,12 +26,12 @@
 }
 
 .Botao_Parte_01:hover , .Botao_Parte_02:hover{
-    background-color:rgb(201, 11, 11) ;
+    background-color:rgb(55, 23, 172) ;
 }
 
 .frase{
     position: absolute;
-    left:45%;
+    left:46%;
     top:30%;
 }
 
